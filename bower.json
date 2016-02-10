@@ -1,0 +1,22 @@
+{
+  "name": "assignment-1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "chinzo94 <chado94@rogers.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chinzo94/Porfolio",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "^4.5.0"
+  }
+}
