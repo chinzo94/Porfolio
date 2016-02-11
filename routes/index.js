@@ -1,3 +1,8 @@
+/* 
+    Page: index.js
+    Author: Chad Ostler
+    Description: routes for index view and passes value of title
+ */
 var express = require('express');
 var router = express.Router();
 
